@@ -12,3 +12,7 @@ ghcr.io/mailcow/sogo:5.12.10-1
 ghcr.io/mailcow/postfix-tlspol:1.8.23
 ghcr.io/mailcow/dovecot:2.3.21.1-2
 ghcr.io/mailcow/dockerapi:2.12
+mariadb:10.11
+redis:7.4.10-alpine
+memcached:alpine
+mcuadros/ofelia:latest
