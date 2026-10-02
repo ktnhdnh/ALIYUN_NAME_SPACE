@@ -1,1 +1,14 @@
-nvdla/vp:latest
+ghcr.io/mailcow/nginx:1.30.4-1
+ghcr.io/mailcow/olefy:1.15
+ghcr.io/mailcow/rspamd:4.1.4-1
+ghcr.io/mailcow/netfilter:1.64
+ghcr.io/mailcow/postfix:3.10.12-1
+ghcr.io/mailcow/unbound:1.25.1-1
+ghcr.io/mailcow/watchdog:2.11
+ghcr.io/mailcow/clamd:1.4.6-1
+ghcr.io/mailcow/phpfpm:8.2.29-3
+ghcr.io/mailcow/acme:1.98
+ghcr.io/mailcow/sogo:5.12.10-1
+ghcr.io/mailcow/postfix-tlspol:1.8.23
+ghcr.io/mailcow/dovecot:2.3.21.1-2
+ghcr.io/mailcow/dockerapi:2.12
